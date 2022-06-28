@@ -1,0 +1,1 @@
+# 10-Aplikacione-me-paketen-PySimpleGui-ne-PYTHON
