@@ -14,9 +14,9 @@ sg.theme('DarkTeal6')
 table_content = []
 layout = [
 	[sg.Table(
-		headings = ['Observation','Result'], 
-		values = table_content, 
-		expand_x = True, 
+		headings = ['Vlerat X','Vlerat Y'],
+		values = table_content,
+		expand_x = True,
 		hide_vertical_scroll = True,
 		key = '-TABLE-')],
 	[sg.Input(key = '-INPUT-',expand_x = True),sg.Button('Submit')],
